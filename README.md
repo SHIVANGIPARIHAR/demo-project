@@ -2,9 +2,7 @@
     <h1>Public APIs</h1>
     <i>A collective list of free APIs for use in software and web development</i>
 </div>
-
 <br />
-
 <div align="center">
     <sup>Status</sup>
     <br />
